@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: var(--colorBackground);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+:root {
+    --colorBackground: rgba(3, 166, 120, 0.918)
+}
